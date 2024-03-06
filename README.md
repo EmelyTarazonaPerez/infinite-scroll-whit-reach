@@ -1,5 +1,5 @@
 # Project description :sparkling_heart:	
-Infinite scroll project made with React
+Infinite scroll project made with React.
 - see project backend in: https://github.com/EmelyTarazonaPerez/pagination-with-node  :smile:	
 
 ## Preview.
